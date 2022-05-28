@@ -1,0 +1,21 @@
+.call{
+    width: 50vh;
+    height:auto;
+    padding: 30px;
+    position: relative;
+    top: 30vh;
+    left: 40vw;
+    background-color: wheat;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.btn{
+    background-color: lightblue;
+    margin: 25px 0;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.btn:hover{
+    background-color: blue;
+    color: white;
+}

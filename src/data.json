@@ -1,0 +1,41 @@
+
+[
+    {
+        "title":"Red Saucy delicious Pasta",
+        "image":"/points/pasta.jpg",
+        "price":2.5
+    },
+    {
+        "title":"Creamy Fries with ketchup",
+        "image":"/points/fries (1).jpg",
+        "price":2
+    },
+    {
+        "title":"Butter Cheese Maggi",
+        "image":"/points/maggi.jpg",
+        "price":2.5
+    },
+    {
+        "title":"veg noodles",
+        "image":"/points/noodles.webp",
+        "price":2
+    },
+    {
+        "title":"Non-veg pizza with mutton",
+        "image":"/points/pizza.jpg",
+        "price":7
+    },
+    {
+        "title":"Veg Pizza with margeretta and cheese",
+        "image":"/points/veg_pizza.jpg",
+        "price":3.5
+    },{
+        "title":"Kadai Paneer",
+        "image":"/points/Kadhai Paneer.jpg",
+        "price":5
+    },{
+        "title":"Butter Chicken",
+        "image":"/points/Butter Chicken.jpg",
+        "price":9
+    }
+]
