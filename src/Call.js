@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Call = () => {
   return (
     <div className='call'>
-        <h1>We called Your waiter</h1>
+        <h1>Waiter will reach out to You Soon</h1>
         <br />
         <h3>Thank You</h3>
         <Link to='/'>

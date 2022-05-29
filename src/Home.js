@@ -6,7 +6,7 @@ function Home() {
     return (
         <div className='home'>
             <div className='home__container'>
-                <img className="home__image" src="/pics/login1.jpg" alt=""/>
+                <img className="home__image" src="../public/pics/upper.jpg" alt="Photo"/>
             </div>
            
           <div className="home__row">
